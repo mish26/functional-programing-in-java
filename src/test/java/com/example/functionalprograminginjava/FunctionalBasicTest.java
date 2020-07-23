@@ -12,7 +12,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class JUnit5Test {
+class FunctionalBasicTest {
 
 
     Predicate<Integer> largerThan(Integer criteria){
